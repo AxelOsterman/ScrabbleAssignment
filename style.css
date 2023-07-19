@@ -1,0 +1,14 @@
+body{
+    margin-left: 17vw;
+    margin-top: 50vh;
+}
+#TxtField{
+    width: 50vw;
+    height: 7vh;
+    text-align: center;
+    font-size: 2vw;
+}
+#Btn{
+    width: 10vw;
+    height: 7.7vh;
+}
